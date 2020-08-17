@@ -1,0 +1,125 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .single-hero-slides {
+        height: 650px
+    }
+    .hero-content h2 {
+        font-size: 42px
+    }
+    .section-heading {
+        margin-bottom: 40px
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0
+    }
+    .sticky .navbar-toggler {
+        margin: 11px 0
+    }
+    #rcNav {
+        padding: 30px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px
+    }
+    .single-hero-slides {
+        height: 600px
+    }
+    .hero-content h2 {
+        font-size: 42px
+    }
+    .single-hero-slides:after {
+        width: 50%
+    }
+    .hero-slides-nav {
+        width: 300px;
+        height: 170px
+    }
+    .rc-hero-area .owl-next {
+        bottom: 148px;
+        right: 278px
+    }
+    .section-heading {
+        margin-bottom: 30px
+    }
+
+    .reservation-form,
+    .contact-form {
+        width: 300px;
+        margin-right: 30px;
+        padding: 50px 0
+    }
+    .breadcumb-area:before,
+    .reservation-side-thumb,
+    .reservation-form-area,
+    .contact-form-area {
+        width: 50%
+    }
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0
+    }
+    .sticky .navbar-toggler {
+        margin: 11px 0
+    }
+    #rcNav {
+        padding: 15px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px
+    }
+    .single-hero-slides {
+        height: 600px
+    }
+    .hero-content h2 {
+        font-size: 36px
+    }
+    .single-hero-slides:after {
+        width: 60%
+    }
+    .hero-slides-nav {
+        width: 200px;
+        height: 100px
+    }
+    .rc-hero-area .owl-next {
+        bottom: 78px;
+        right: 178px
+    }
+    .welcome-social-info {
+        right: 15px
+    }
+    .hero-content p {
+        margin-bottom: 30px
+    }
+    .section-heading {
+        text-align: left !important
+    }
+    .section-heading h2 {
+        font-size: 30px
+    }
+    
+    .section-heading {
+        margin-bottom: 30px
+    }
+    
+    .breadcumb-area:before {
+        width: 70%
+    }
+}
+
+/* Blog */
+
+@media (min-width: 768px) {
+    .blog-entry {
+        margin-bottom: 30px; } 
+        }
+    
+    @media (max-width: 767.98px) {
+    .blog-entry {
+        margin-bottom: 30px; } 
+        }
